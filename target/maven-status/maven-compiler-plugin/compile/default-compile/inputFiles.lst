@@ -1,0 +1,9 @@
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/controller/PostController.java
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/security/CorsConfig.java
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/model/form/PostForm.java
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/DesafioSspTobiasApplication.java
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/model/dto/PostDto.java
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/model/Post.java
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/services/PostService.java
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/configuration/SwaggerConfig.java
+/Users/tobiasgustavo/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/DesafioSSPTobias/src/main/java/br/com/desafiossptobias/repository/PostRepository.java
